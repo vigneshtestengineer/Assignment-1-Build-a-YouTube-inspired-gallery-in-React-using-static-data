@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Assignment-1-Build-a-YouTube-inspired-gallery-in-React-using-static-data/static/css/main.1f163232.css",
+    "main.js": "/Assignment-1-Build-a-YouTube-inspired-gallery-in-React-using-static-data/static/js/main.21d0ff45.js",
+    "static/js/787.abab8ec5.chunk.js": "/Assignment-1-Build-a-YouTube-inspired-gallery-in-React-using-static-data/static/js/787.abab8ec5.chunk.js",
+    "static/media/logo.svg": "/Assignment-1-Build-a-YouTube-inspired-gallery-in-React-using-static-data/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Assignment-1-Build-a-YouTube-inspired-gallery-in-React-using-static-data/index.html",
+    "main.1f163232.css.map": "/Assignment-1-Build-a-YouTube-inspired-gallery-in-React-using-static-data/static/css/main.1f163232.css.map",
+    "main.21d0ff45.js.map": "/Assignment-1-Build-a-YouTube-inspired-gallery-in-React-using-static-data/static/js/main.21d0ff45.js.map",
+    "787.abab8ec5.chunk.js.map": "/Assignment-1-Build-a-YouTube-inspired-gallery-in-React-using-static-data/static/js/787.abab8ec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f163232.css",
+    "static/js/main.21d0ff45.js"
+  ]
+}
